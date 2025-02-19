@@ -1,5 +1,5 @@
 # Alex Gil (King Coder)
-## Full Stack Developer! - Content Creator
+## Full Stack Developer - Content Creator
 ![account Banner](https://kingcoderportfolio-es.vercel.app/KingCoderLogoSmall.png)
 
 Hello there!👋
